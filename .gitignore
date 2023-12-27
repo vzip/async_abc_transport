@@ -1,0 +1,8 @@
+__pycache__/
+**/__pycache__/
+python3.11/
+Dockerfile.dev
+**/.DS_Store
+venv/
+.env
+**/.env
