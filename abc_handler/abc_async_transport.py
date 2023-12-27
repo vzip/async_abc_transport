@@ -83,7 +83,3 @@ class AbstractConnectorAsync:
     @staticmethod
     def parse_message(message: bytes) -> Dict:
         return json.loads(message.decode('utf-8'))
-
-
-
-
